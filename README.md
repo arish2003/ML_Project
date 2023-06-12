@@ -1,5 +1,4 @@
 # ML_Project
-Title : Cancer Prediction
 Cancer Prediction
 Dataset Information:
 
